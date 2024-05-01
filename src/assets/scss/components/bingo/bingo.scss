@@ -2,7 +2,7 @@
     table {
         border-collapse: collapse;
         background: white;
-
+        
         th {
             height: 3rem;
         }
@@ -12,6 +12,7 @@
             border: 3px solid $black;
             font-size: .8rem;
             padding: 0;
+            height: 7rem;
 
             &:hover {
                 cursor: url('@/assets/img/rosin.png') 4 12, auto;
