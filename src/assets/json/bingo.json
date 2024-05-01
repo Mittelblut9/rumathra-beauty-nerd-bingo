@@ -9,89 +9,90 @@
     "bingo": [
         [
             {
-                "text": "Es wird etwas mit Weißwein abgelöscht"
+                "text": "Jemand heult"
             },
             {
-                "text": "Schwarz/Weiß Blende"
+                "text": "Rückblende"
             },
             {
-                "text": "Klimbim Kladderadatsch"
-            },
-            {
-                "text": "Tuten und Blasen/Damokles"
-            },
-            {
-                "text": "Von dem Stress ind er Küche kriegen die Testesser nichts mit"
-            }
-        ],
-        [
-            {
-                "text": "Sose x5",
+                "text": "Arsch Zoom x5",
                 "multiSelectNumber": 5
             },
             {
-                "text": "Die Inhaber sind verschuldet"
+                "text": "Anime"
             },
             {
-                "text": "Flo oder Willi kommt"
-            },
-            {
-                "text": "Restaurant hat noch offen"
-            },
-            {
-                "text": "Frank macht einen schlechten Witz"
+                "text": "Streit"
             }
         ],
         [
             {
-                "text": "Es weint jemand"
+                "text": "1 Subgift",
+                "multiSelectNumber": 5
             },
             {
-                "text": "Nach dem 1. Testessen wird geglaubt man habe sehr gut abgeschnitten"
+                "text": "1 Prime Sub"
             },
             {
-                "text": "5er Sub Bombe kommt rein"
+                "text": "Etwas wird zensiert"
             },
             {
-                "text": "Frank braucht mal 5 Minuten"
+                "text": "World of Warcraft"
             },
             {
-                "text": "Mega x3",
-                "multiSelectNumber": 3
+                "text": "Umstyltng schlimmer als vorher"
             }
         ],
         [
             {
-                "text": "Es werden Tütenprodukte verwendet"
+                "text": "Minecraft"
             },
             {
-                "text": "Rosin zwinkert"
+                "text": "Alkohol word konsumiert"
             },
             {
-                "text": "Rosin geht mit Finger in die Soße"
+                "text": "5 Subgifts"
             },
             {
-                "text": "Rosin wird touchy"
+                "text": "Schlecher Witz"
             },
             {
-                "text": "Bei Rosin kickts"
+                "text": "Jemand will aufgeben"
             }
         ],
         [
             {
-                "text": "Rosin geht im eigenen Restaurant kochen"
+                "text": "Jemand wird beleidigt"
             },
             {
-                "text": "Mit den Händen aufbauen und mit dem Arsch wieder umstoßen"
+                "text": "Rauchen"
             },
             {
-                "text": "Ein Testesser sagt das Fleisch sei trocken"
+                "text": "Kuss"
             },
             {
-                "text": "Die Rezepte kann man auf Kabeleins.de nachlesen"
+                "text": "Cringe x5",
+                "multiSelectNumber": 5
             },
             {
-                "text": "Die Wände werden grau gestrichen"
+                "text": "Party"
+            }
+        ],
+        [
+            {
+                "text": "Random Facts"
+            },
+            {
+                "text": "Cosplay"
+            },
+            {
+                "text": "Ungepflegt"
+            },
+            {
+                "text": "\"Ich kann das nicht fassen\""
+            },
+            {
+                "text": "Brüste werden thematisiert"
             }
         ]
     ]
